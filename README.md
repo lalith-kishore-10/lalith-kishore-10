@@ -6,7 +6,7 @@
 
 <p>A B.Tech student in Artificial Intelligence & Data Science with a relentless passion for Cybersecurity.</br>I thrive on deconstructing complex systems, hunting for vulnerabilities, and building secure, intelligent solutions.</p>
 
-<img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="Matrix digital rain" width="400"/></div>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Anonymous coder" width="400"/></div>
 
 ---
 
