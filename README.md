@@ -6,7 +6,7 @@
 
 <p>A B.Tech student in Artificial Intelligence & Data Science with a relentless passion for Cybersecurity.</br>I thrive on deconstructing complex systems, hunting for vulnerabilities, and building secure, intelligent solutions.</p>
 
-<img src="https://media.giphy.com/media/WF_H5cc3SDFdAXq3hS/giphy.gif" alt="Terminal code scrolling" width="400"/></div>
+<img src="https://media.giphy.com/media/VbAFrrleGkP4s/giphy.gif" alt="Binary skull" width="400"/></div>
 
 ---
 
