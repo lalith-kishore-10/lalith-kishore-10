@@ -32,7 +32,6 @@ This is the arsenal I use to build, break, and secure applications.
 
 ---
 
----
 
 ### 🚀 My Featured Projects
 
