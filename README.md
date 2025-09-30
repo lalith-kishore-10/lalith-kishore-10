@@ -32,18 +32,6 @@ This is the arsenal I use to build, break, and secure applications.
 
 ---
 
-### 📈 My GitHub Activity & Stats
-
-<div align="center">
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lalith-kishore&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Lalith-kishore's GitHub Stats" /></p>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lalith-kishore&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=Lalith-kishore&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
-
-</div>
-
 ---
 
 ### 🚀 My Featured Projects
